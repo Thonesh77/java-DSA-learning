@@ -1,12 +1,10 @@
 import java.util.Scanner;
-
-public class function {
     public static void main(String[] args) {
-        sum();
+        sample();
 
     }
 
-    static void sum() {
+    static void sample() {
         Scanner in = new Scanner(System.in);
         System.out.print("enter a number");
         int a = in.nextInt();
